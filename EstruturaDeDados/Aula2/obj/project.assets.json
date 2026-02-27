@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos\\EstruturaDeDados\\Aula2\\Aula2.csproj",
-      "projectName": "Aula2",
-      "projectPath": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos\\EstruturaDeDados\\Aula2\\Aula2.csproj",
+      "projectUniqueName": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos_CSharp\\EstruturaDeDados\\Aula2\\Recursividade.csproj",
+      "projectName": "Recursividade",
+      "projectPath": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos_CSharp\\EstruturaDeDados\\Aula2\\Recursividade.csproj",
       "packagesPath": "C:\\Users\\felipe.spinto5.SENACEDU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos\\EstruturaDeDados\\Aula2\\obj\\",
+      "outputPath": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos_CSharp\\EstruturaDeDados\\Aula2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos\\EstruturaDeDados\\",
+  "WorkspaceRootPath": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos_CSharp\\EstruturaDeDados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F613181-613D-432B-9417-CB9CC7D05204}|Aula2\\Aula2.csproj|c:\\users\\felipe.spinto5.senacedu\\documents\\github\\estudos\\estruturadedados\\aula2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F613181-613D-432B-9417-CB9CC7D05204}|Aula2\\Recursividade.csproj|c:\\users\\felipe.spinto5.senacedu\\documents\\github\\estudos_csharp\\estruturadedados\\aula2\\combin\u00E1t\u00F3ria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F613181-613D-432B-9417-CB9CC7D05204}|Aula2\\Recursividade.csproj|solutionrelative:aula2\\combin\u00E1t\u00F3ria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F613181-613D-432B-9417-CB9CC7D05204}|Aula2\\Aula2.csproj|c:\\users\\felipe.spinto5.senacedu\\documents\\github\\estudos_csharp\\estruturadedados\\aula2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F613181-613D-432B-9417-CB9CC7D05204}|Aula2\\Aula2.csproj|solutionrelative:aula2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F613181-613D-432B-9417-CB9CC7D05204}|Aula2\\Recursividade.csproj|c:\\users\\felipe.spinto5.senacedu\\documents\\github\\estudos_csharp\\estruturadedados\\aula2\\fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F613181-613D-432B-9417-CB9CC7D05204}|Aula2\\Recursividade.csproj|solutionrelative:aula2\\fatorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Combin\u00E1t\u00F3ria.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos_CSharp\\EstruturaDeDados\\Aula2\\Combin\u00E1t\u00F3ria.cs",
+              "RelativeDocumentMoniker": "Aula2\\Combin\u00E1t\u00F3ria.cs",
+              "ToolTip": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos_CSharp\\EstruturaDeDados\\Aula2\\Combin\u00E1t\u00F3ria.cs",
+              "RelativeToolTip": "Aula2\\Combin\u00E1t\u00F3ria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T14:31:41.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fatorial.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos_CSharp\\EstruturaDeDados\\Aula2\\Fatorial.cs",
+              "RelativeDocumentMoniker": "Aula2\\Fatorial.cs",
+              "ToolTip": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos_CSharp\\EstruturaDeDados\\Aula2\\Fatorial.cs",
+              "RelativeToolTip": "Aula2\\Fatorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T13:31:18.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos\\EstruturaDeDados\\Aula2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos_CSharp\\EstruturaDeDados\\Aula2\\Program.cs",
               "RelativeDocumentMoniker": "Aula2\\Program.cs",
-              "ToolTip": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos\\EstruturaDeDados\\Aula2\\Program.cs",
+              "ToolTip": "C:\\Users\\felipe.spinto5.SENACEDU\\Documents\\GitHub\\Estudos_CSharp\\EstruturaDeDados\\Aula2\\Program.cs",
               "RelativeToolTip": "Aula2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T11:54:28.199Z",
               "EditorCaption": ""

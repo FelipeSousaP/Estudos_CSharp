@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula1_Fila", "EstruturaDeDados\Aula1_Fila.csproj", "{C9D4414A-CC8A-4953-AA38-638F4A6A3507}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula2", "Aula2\Aula2.csproj", "{2F613181-613D-432B-9417-CB9CC7D05204}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursividade", "Aula2\Recursividade.csproj", "{2F613181-613D-432B-9417-CB9CC7D05204}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
